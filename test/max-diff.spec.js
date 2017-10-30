@@ -1,5 +1,4 @@
 const {expect} = require('chai');
-
 const {maxDiff} = require('../src/max-diff');
 
 describe('maxDiff', () => {
